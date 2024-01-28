@@ -1,0 +1,1 @@
+I developed this project to enhanced my skills on what I have learned. This project contain a discount system after a person spend amount of money.
